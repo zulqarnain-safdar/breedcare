@@ -122,31 +122,7 @@
           </div>
         </div>
 
-        <!-- Demo Credentials -->
-        <div class="px-8 pb-8">
-          <div class="bg-gradient-to-r from-gray-50 to-blue-50 rounded-2xl p-4 border border-gray-200">
-            <h3 class="text-sm font-semibold text-gray-900 mb-3 flex items-center">
-              <svg class="w-4 h-4 mr-2 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-              </svg>
-              Demo Credentials
-            </h3>
-            <div class="space-y-2">
-              <div class="flex justify-between items-center text-xs">
-                <span class="font-medium text-gray-700">Admin:</span>
-                <span class="text-gray-600">+923001234500 / admin123</span>
-              </div>
-              <div class="flex justify-between items-center text-xs">
-                <span class="font-medium text-gray-700">Farmer:</span>
-                <span class="text-gray-600">+923001234567 / password123</span>
-              </div>
-              <div class="flex justify-between items-center text-xs">
-                <span class="font-medium text-gray-700">Technician:</span>
-                <span class="text-gray-600">+923001234570 / password123</span>
-              </div>
-            </div>
-          </div>
-        </div>
+        
       </div>
     </div>
   </div>
